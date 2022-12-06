@@ -13,7 +13,6 @@ public class Helloworld {
 		System.out.println(1+2); // 결과값: 3 , 사칙연산을 다 따름
 		
 		//""(쌍따옴표)안에 작성되지 않은 코드는 숫자, 변수로 인식
-		
 		//""(문자열) + 숫자 함께 작성
 		
 		System.out.println("14*19 ="+ 14*19);
@@ -24,7 +23,7 @@ public class Helloworld {
 		System.out.println((2+3)*2);
 		//notice- 자바는 사칙연산의 우선순위를 그대로 따른다. 
 		//ex) 우선계산을 원하면 () 괄호 그대로 사용
-		
+		System.out.println("Git Test");
 		
 	}
 }
